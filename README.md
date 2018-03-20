@@ -1,4 +1,4 @@
-# Analsis Big data for Finance data set with pyspark #
+# Inheritance in Java #
 
 In this work going to analyze how use inheritance in java, creating a super class and then their 
 descents class.
